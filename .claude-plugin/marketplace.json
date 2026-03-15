@@ -1,0 +1,33 @@
+{
+  "name": "claude-certified-architect",
+  "owner": {
+    "name": "carolinacherry",
+    "email": "danielan23@gmail.com"
+  },
+  "metadata": {
+    "description": "Interactive exam prep for the Claude Certified Architect (Foundations) certification. Covers all 5 domains, 30 task statements, 6 scenarios, anti-patterns, and decision rules from the official Anthropic exam guide.",
+    "version": "1.0.0",
+    "pluginRoot": "commands"
+  },
+  "plugins": [
+    {
+      "name": "claude-certified-architect",
+      "source": "./commands/claude-certified-architect",
+      "description": "Study for the CCA-F exam with /claude-certified-architect. Interactive domain teaching, practice questions, anti-pattern identification, and scenario walkthroughs. Based on the official Anthropic exam guide.",
+      "version": "1.0.0",
+      "author": {
+        "name": "carolinacherry"
+      },
+      "tags": [
+        "certification",
+        "exam-prep",
+        "claude-code",
+        "agent-sdk",
+        "mcp",
+        "prompt-engineering",
+        "architecture",
+        "anthropic"
+      ]
+    }
+  ]
+}
