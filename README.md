@@ -66,10 +66,6 @@ The certification is partner-exclusive, but the knowledge tested applies to anyo
 - Few-shot prompting, structured output with tool_use, and validation-retry loops
 - Context preservation, escalation triggers, and information provenance
 
-## Browser-Based Study Guide
-
-For a visual, interactive experience with timed quizzes and progress tracking, see [CCA Prep](https://github.com/carolinacherry/cca-prep).
-
 ## Source
 
 Based on the [Claude Certified Architect — Foundations Certification Exam Guide](https://anthropic.skilljar.com/claude-certified-architect-foundations-access-request) published by Anthropic.
